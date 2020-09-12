@@ -14,6 +14,10 @@
 2. ~~利用Github的Actions 每周重启 IBM Cloud Fonudray~~
 3. ~~Cloudflare 高速节点中转~~
 
+# 20200912可用
+IBM会检测v2ray代码，更改应用名称即可
+一键设置移步https://github.com/w2r/IBMAllYes
+
 # 使用IBM Cloud Fonudray搭建应用
 
 首先注册https://cloud.ibm.com/
